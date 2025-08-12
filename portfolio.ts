@@ -20,8 +20,8 @@ export const greetings = {
   title: "Hey all, I'm Amit Santosh Sahu",
   description:
     "I'm a passionate Full-Stack Developer specializing in AI integration and scalable cloud solutions. Technical Head at Data Science Community (DASCA), leading cross-functional teams and organizing technical events. Built and deployed 3+ production-ready applications with 99.9% uptime, solved 500+ algorithmic problems (LeetCode rating: 1676), and developed performant web solutions using React, TypeScript, and cloud-native architectures.",
-  resumeLink:
-    'https://drive.google.com/file/d/1NLB6OHPssnUd-QtacHCDYPydb_6RX_60/view?usp=drive_link',
+  	resumeLink:
+		'https://drive.google.com/file/d/1PtadVUb_qvggUvRDd_MIW7IeXVOI2sMf/view?usp=drive_link',
 };
 
 export const openSource = {
@@ -31,7 +31,7 @@ export const openSource = {
 export const contact = {};
 
 export const socialLinks = {
-  url: 'https://ai-resume-analyzer-nine-khaki.vercel.app',
+	url: 'https://portfolio-wheat-seven-70.vercel.app',
   linkedin: 'https://linkedin.com/in/amit-sahu-24a03s1707',
   github: 'https://github.com/amit-s4507',
   // instagram: "YOUR_INSTAGRAM_URL",
@@ -256,7 +256,7 @@ export const projects: ProjectType[] = [
     name: 'AI Resume Analyzer – AI-Powered Resume Analysis Platform',
     desc: 'A modern, AI-powered resume analysis platform that provides comprehensive feedback on resumes using advanced Applicant Tracking System (ATS) optimization and AI-driven insights. Built with React 19.1.0, TypeScript, Tailwind CSS, and Puter.js. Features include comprehensive resume scoring, ATS optimization, real-time feedback, and secure file handling with zero data retention.',
     github: 'https://github.com/amit-s4507/Ai-Resume-Analyzer',
-    link: 'https://ai-resume-analyzer-nine-khaki.vercel.app',
+    		link: 'https://portfolio-wheat-seven-70.vercel.app',
   },
   {
     name: 'Student Levelling – Gamified Learning Platform',
@@ -317,7 +317,7 @@ export const seoData: SEODataType = {
     'A passionate Full-Stack Developer specializing in AI integration and scalable cloud solutions. Technical Head at DASCA with expertise in React, TypeScript, and AI/ML.',
   author: 'Amit Santosh Sahu',
   image: '/profile-photo.jpg',
-  url: 'https://ai-resume-analyzer-nine-khaki.vercel.app',
+  	url: 'https://portfolio-wheat-seven-70.vercel.app',
   keywords: [
     'Amit Sahu',
     'Amit Santosh Sahu',

@@ -224,7 +224,7 @@ npm run type-check   # TypeScript validation
 
 ## 📞 Contact & Support
 
-- **Portfolio**: [https://ai-resume-analyzer-nine-khaki.vercel.app](https://ai-resume-analyzer-nine-khaki.vercel.app)
+- **Portfolio**: [https://portfolio-wheat-seven-70.vercel.app](https://portfolio-wheat-seven-70.vercel.app)
 - **GitHub**: [https://github.com/amit-s4507](https://github.com/amit-s4507)
 - **LinkedIn**: [https://linkedin.com/in/amit-sahu-24a03s1707](https://linkedin.com/in/amit-sahu-24a03s1707)
 - **Email**: amitsahu174507@gmail.com

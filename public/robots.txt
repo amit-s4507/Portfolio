@@ -2,10 +2,10 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://ai-resume-analyzer-nine-khaki.vercel.app/sitemap.xml
+Sitemap: https://portfolio-wheat-seven-70.vercel.app/sitemap.xml
 
 # Host
-Host: https://ai-resume-analyzer-nine-khaki.vercel.app
+Host: https://portfolio-wheat-seven-70.vercel.app
 
 # Crawl-delay for respectful crawling
 Crawl-delay: 1

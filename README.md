@@ -10,7 +10,7 @@
 
 ## 🌟 Live Demo
 
-**🔗 [View Portfolio](https://ai-resume-analyzer-nine-khaki.vercel.app)**
+**🔗 [View Portfolio](https://portfolio-wheat-seven-70.vercel.app)**
 
 ## 📋 Table of Contents
 
@@ -231,7 +231,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Portfolio**: [https://ai-resume-analyzer-nine-khaki.vercel.app](https://ai-resume-analyzer-nine-khaki.vercel.app)
+- **Portfolio**: [https://portfolio-wheat-seven-70.vercel.app](https://portfolio-wheat-seven-70.vercel.app)
 - **LinkedIn**: [https://linkedin.com/in/amit-sahu-24a03s1707](https://linkedin.com/in/amit-sahu-24a03s1707)
 - **GitHub**: [https://github.com/amit-s4507](https://github.com/amit-s4507)
 - **Email**: amitsahu174507@gmail.com
