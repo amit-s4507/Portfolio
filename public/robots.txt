@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://ai-resume-analyzer-nine-khaki.vercel.app/sitemap.xml
+
+# Host
+Host: https://ai-resume-analyzer-nine-khaki.vercel.app
+
+# Crawl-delay for respectful crawling
+Crawl-delay: 1
