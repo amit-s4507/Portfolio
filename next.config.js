@@ -1,3 +1,4 @@
+// Next.js configuration for portfolio deployment
 module.exports = {
   reactStrictMode: false,
   eslint: {
