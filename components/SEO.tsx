@@ -52,12 +52,6 @@ function SEO() {
       <link rel="dns-prefetch" href="//api.github.com" />
       <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="" />
       
-      {/* Fonts */}
-      <link
-        href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap"
-        rel="stylesheet"
-      />
-      
       {/* Favicon and App Icons */}
       <link rel="manifest" href="/manifest.json" />
       <link rel="apple-touch-icon" sizes="120x120" href="./favicon.png" />
